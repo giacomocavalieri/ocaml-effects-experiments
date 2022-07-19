@@ -1,0 +1,4 @@
+(executable
+ (public_name effects)
+ (name main)
+ (libraries effects))
